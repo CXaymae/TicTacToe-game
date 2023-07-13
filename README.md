@@ -6,6 +6,7 @@ The objective of the game is to get three of your symbols in a row, either horiz
 This project was developed as a practice exercise from Great Learning, an online platform that offers high-quality courses and programs in various domains.
 
 ## Features
+It is built using conditional statements, loops, branching statements, objects & classes, strings, arrays and HashSet.
 
 - The game is played in the console/terminal.
 - The game board is displayed after each move.
